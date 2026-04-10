@@ -6,7 +6,7 @@ Ce projet est une application Flutter permettant de capturer des informations vi
 Le développement de ce formulaire a été réalisé en s'appuyant sur les tutoriels suivants :
 - **Vidéo 1** : [https://youtu.be/j5NXqMOY1l8]
 - **Vidéo 2** : [https://youtu.be/ezSiPm2rNNk]
-
+## Merci à Monsieur EL MERNISSI ABDERAZZAK.
 ##  Fonctionnalités ajoutées
 En plus du formulaire de base, j'ai implémenté plusieurs fonctionnalités avancées :
 1. **Système de Sauvegarde** : Ajout d'une logique permettant d'enregistrer les données dans une liste dynamique.
