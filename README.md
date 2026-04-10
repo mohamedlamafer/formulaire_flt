@@ -24,6 +24,7 @@ Pour gérer l'affichage et la sauvegarde des utilisateurs, j'ai utilisé une app
 ##  Aperçu
 - **Page Principale** : Formulaire complet avec `TextField`, `Radio`, `Checkbox`, `Slider` et `Dropdown`, suivi de la liste des inscrits.
 - **Page Détails** : Vue optimisée du profil sélectionné.
+##  ScreenShots
 
 ---
 Développé par **Mohamed Lamafer**
